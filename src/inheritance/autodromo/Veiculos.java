@@ -1,4 +1,4 @@
-package inheritance;
+package inheritance.autodromo;
 
 public class Veiculos {
     public int ano;

@@ -1,6 +1,6 @@
-package entities;
+package entities.autodromo;
 
-import inheritance.Veiculos;
+import inheritance.autodromo.Veiculos;
 
 public class Carro extends Veiculos {
     public int horsep;
